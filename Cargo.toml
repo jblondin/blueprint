@@ -1,0 +1,6 @@
+[package]
+name = "blueprint"
+version = "0.1.0"
+authors = ["Jamie Blondin <jblondin@gmail.com>"]
+
+[dependencies]
